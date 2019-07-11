@@ -1,3 +1,4 @@
+[![Build Status](https://habergho.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/wberghoff.mslearn-tailspin-spacegame-web?branchName=master)](https://habergho.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
